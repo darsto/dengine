@@ -1,5 +1,5 @@
 # Dengine
 Android OpenGL-based game engine.
 
-###*Documentation is on the way.*
-For now, check the examples module to understand the engine.
+###*No longer supported.*
+Check out the C++ successor of this engine: https://github.com/darsto/spooky
